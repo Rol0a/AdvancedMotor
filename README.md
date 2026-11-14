@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ MotorGuard
+# MotorGuard
 ### Motor Control & Fault Diagnostics
 
 **Closed-loop speed control · Deterministic shutdown · Measurable verification**
